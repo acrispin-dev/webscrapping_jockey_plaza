@@ -9,4 +9,5 @@ __pycache__/
 .idea/
 *.log
 output/*.csv
+output/*.xlsx
 .DS_Store
